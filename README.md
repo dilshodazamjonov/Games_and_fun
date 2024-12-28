@@ -19,12 +19,7 @@ Tic-Tac-Toe
 
 A classic game implemented with Python.
 Includes a player-vs-player mode and basic AI for solo play.
-How to Use
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/<username>/Games_and_fun.git  
-Navigate to a project directory and follow the README or script instructions to run it.
+
 Technologies Used
 Python
 Libraries: OpenCV, NumPy, and more depending on the project.
